@@ -34,11 +34,11 @@
 ### Himatsuki Stat 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Himatsuki011&theme=default" alt="Himatsuki" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himatsuki011&theme=default" alt="himatsuki" /></p>
 
-![Ra Github stat](https://github-readme-stats.vercel.app/api?username=Himatsuki011&theme=default&show_icons=true) 
+![Ra Github stat](https://github-readme-stats.vercel.app/api?username=himatsuki011&theme=default&show_icons=true) 
 
-![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=Himatsuki011&theme=default)
+![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=himatsuki011&theme=default)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Himatsuki011&theme=default)
 
