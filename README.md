@@ -1,11 +1,11 @@
 <h3 align="right">Visitor ⓘ
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=himatsuki011&label=Profile%20views&color=443c42&style=plastic" alt="Kamako011" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Kamako011&label=Profile%20views&color=443c42&style=plastic" alt="Kamako011" /> </p>
 <h1 align="center">Hiii! <img src="https://i.imgur.com/ugWb6BU.gif" style="border-radius:5;" width="45px" alt=""><br></h1>
 
 <p align="center">
 
-  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&multiline=false&lines=welcome+to+my+github." alt="himatsuki011">
+  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&multiline=false&lines=welcome+to+my+github." alt="Kamako011">
 
 </p>
 
@@ -31,16 +31,16 @@
 </p>
 
 
-### Himatsuki Stat 
+### Kamako Himatsuki Stat 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himatsuki011&theme=default" alt="himatsuki" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamako011&theme=default" alt="Kamako" /></p>
 
-![Ra Github stat](https://github-readme-stats.vercel.app/api?username=himatsuki011&theme=default&show_icons=true) 
+![Ra Github stat](https://github-readme-stats.vercel.app/api?username=Kamako011&theme=default&show_icons=true) 
 
-![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=himatsuki011&theme=default)
+![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=Kamako011&theme=default)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Himatsuki011&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamako011&theme=default)
 
 
 <h3 align="right">Connect with me : :yum:</h3>
